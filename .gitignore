@@ -1,6 +1,11 @@
+# Altium Designer files
 board/__Previews
 board/History
 board/Project Logs*
 board/*PrjPcbStructure
 
+# SolidWorks temporary files
+3d-body/*/~$*
+
+# Visual Studio files
 .vs/
