@@ -1,8 +1,14 @@
+*.log
+*.swp
+
 # Altium Designer files
-board/__Previews
-board/History
-board/Project Logs*
-board/*PrjPcbStructure
+board*/__Previews
+board*/History
+board*/Project Logs*
+board*/*PrjPcbStructure
+board*/Design Rule Check - *
+board*/Project Outputs for *
+board*/*.txt
 
 # SolidWorks temporary files
 3d-body/*/~$*
