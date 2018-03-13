@@ -9,6 +9,8 @@ board*/*PrjPcbStructure
 board*/Design Rule Check - *
 board*/Project Outputs for *
 board*/*.txt
+board*/*.pdf
+board*/*.OutJob
 
 # SolidWorks temporary files
 3d-body/*/~$*
